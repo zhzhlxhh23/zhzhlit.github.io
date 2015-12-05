@@ -1,0 +1,2 @@
+# hexo
+use for hexo
